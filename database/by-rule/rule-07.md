@@ -1,0 +1,20 @@
+# Rule 07 — hooks that cite it
+
+See rule definition in [`../../SKILL.md`](../../SKILL.md) (Hook Writing Rules or rule section).
+
+| id | format | creator | chars | hook preview | file |
+|----|--------|---------|-------|--------------|------|
+| 0002 | dense | Diandra Escobar | 133 | I started YouTube 6 weeks ago. Since then I've had 20k+ views, 803 hours of watc… | [0002-diandra-escobar-i-started-youtube-6-weeks-ago-since-then-i-ve-had-.md](../hooks/0002-diandra-escobar-i-started-youtube-6-weeks-ago-since-then-i-ve-had-.md) |
+| 0028 | dense | Jake Ward | 88 | I built 13,000+ pages with AI in 3 hours and grew my SEO traffic by +466% 60 day… | [0028-jake-ward-i-built-13-000-pages-with-ai-in-3-hours-and-grew-m.md](../hooks/0028-jake-ward-i-built-13-000-pages-with-ai-in-3-hours-and-grew-m.md) |
+| 0033 | dense | Leigh McKenzie | 157 | Over two weeks at Backlinko, we reverse-engineered how AI systems decide which b… | [0033-leigh-mckenzie-over-two-weeks-at-backlinko-we-reverse-engineered-.md](../hooks/0033-leigh-mckenzie-over-two-weeks-at-backlinko-we-reverse-engineered-.md) |
+| 0040 | dense | Sophie Miller | 85 | a year ago this was just a note in my phone, tomorrow you can bag a ticket to jo… | [0040-sophie-miller-a-year-ago-this-was-just-a-note-in-my-phone-tomorr.md](../hooks/0040-sophie-miller-a-year-ago-this-was-just-a-note-in-my-phone-tomorr.md) |
+| 0052 | punchy-context | Diandra Escobar | 124 | POV: You believed in yourself, started posting on LinkedIn. ⏎  ⏎ And went from f… | [0052-diandra-escobar-pov-you-believed-in-yourself-started-posting-on-li.md](../hooks/0052-diandra-escobar-pov-you-believed-in-yourself-started-posting-on-li.md) |
+| 0057 | punchy-context | Diandra Escobar | 97 | 361 comments. 214 reposts. 206,834 impressions. ⏎  ⏎ From a founder nobody had h… | [0057-diandra-escobar-361-comments-214-reposts-206-834-impressions.md](../hooks/0057-diandra-escobar-361-comments-214-reposts-206-834-impressions.md) |
+| 0061 | punchy-context | Alicia Teltz | 90 | From invisible to invited by Google... ⏎  ⏎ And it all happened because I got ov… | [0061-alicia-teltz-from-invisible-to-invited-by-google.md](../hooks/0061-alicia-teltz-from-invisible-to-invited-by-google.md) |
+| 0069 | punchy-context | Beatrice Vladut | 99 | My high school teacher told me I'd never speak English. ⏎  ⏎ Today I work, think… | [0069-beatrice-vladut-my-high-school-teacher-told-me-i-d-never-speak-eng.md](../hooks/0069-beatrice-vladut-my-high-school-teacher-told-me-i-d-never-speak-eng.md) |
+| 0081 | punchy-context | Emily Dunlop | 141 | 22 months ago I had zero followers and a job I'd fallen out of love with. ⏎  ⏎ N… | [0081-emily-dunlop-22-months-ago-i-had-zero-followers-and-a-job-i-d-f.md](../hooks/0081-emily-dunlop-22-months-ago-i-had-zero-followers-and-a-job-i-d-f.md) |
+| 0105 | punchy-context | Matt Barker | 103 | 4 years ago I was a freelance copywriter earning £1k/month: ⏎  ⏎ - I ate the sam… | [0105-matt-barker-4-years-ago-i-was-a-freelance-copywriter-earning-1.md](../hooks/0105-matt-barker-4-years-ago-i-was-a-freelance-copywriter-earning-1.md) |
+| 0124 | stacked | Diandra Escobar | 91 | 2023: Broke Colombian girl living in Medellin ⏎  ⏎ 2026: Speaking in CHINA to 9 … | [0124-diandra-escobar-2023-broke-colombian-girl-living-in-medellin.md](../hooks/0124-diandra-escobar-2023-broke-colombian-girl-living-in-medellin.md) |
+| 0127 | stacked | Cam Trew | 80 | 2025: Working a 9-5 tech job ⏎  ⏎ 2026: 2x AI Founder. First YouTube video recor… | [0127-cam-trew-2025-working-a-9-5-tech-job.md](../hooks/0127-cam-trew-2025-working-a-9-5-tech-job.md) |
+| 0129 | stacked | Lara Acosta | 97 | 2023: 0 followers. $0 made. Felt invisible. ⏎  ⏎ 2026: 317k followers. $2M+ made… | [0129-lara-acosta-2023-0-followers-0-made-felt-invisible.md](../hooks/0129-lara-acosta-2023-0-followers-0-made-felt-invisible.md) |
+| 0130 | stacked | Matt Barker | 92 | 2022: Hit 40,000 followers. ⏎  ⏎ 2023: Hit 100,000 followers. ⏎  ⏎ 2026: Will hi… | [0130-matt-barker-2022-hit-40-000-followers.md](../hooks/0130-matt-barker-2022-hit-40-000-followers.md) |

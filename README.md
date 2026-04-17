@@ -1,44 +1,82 @@
 # hooks-skill
 
-A workspace for building reusable **skills** — structured, searchable, directly-usable knowledge packs.
+The **LinkedIn Hook Writer** skill — a complete, searchable, cross-linked system for writing high-converting LinkedIn hooks.
 
-## Skills in this repo
+- **`SKILL.md`** is the canonical spec (the rulebook: formats, rules, bans, workflow).
+- **`EXAMPLES.md`** is the canonical reference (131 annotated hooks from 21 creators).
+- Everything else here is **tooling around those two files** so they're usable end-to-end.
 
-- [**linkedin-hooks**](./skills/linkedin-hooks/SKILL.md) — the ultimate playbook for writing LinkedIn hooks, posts, and story frameworks. Niche-agnostic; ships with a tagged swipe database, hook templates, story-framework templates, and generator playbooks.
-
-## What "skill" means here
-
-A skill is a directory with:
-
-- A top-level `SKILL.md` declaring what the skill is for and when to use it.
-- A `references/` directory of mental-model + reference docs.
-- A `templates/` directory of fill-in-the-blank templates (hooks, stories, generators).
-- A `database/` directory of real examples indexed by tags.
-- An `examples/` directory of worked end-to-end uses.
-
-The design goal: you enter from any layer (an idea, a pattern, a framework, a real swipe) and can navigate to any other in one or two links.
-
-## Repo layout
+## What's here
 
 ```
 .
-├── README.md
-└── skills/
-    └── linkedin-hooks/
-        ├── SKILL.md
-        ├── README.md
-        ├── references/
-        ├── templates/
-        │   ├── hooks/
-        │   ├── stories/
-        │   └── generators/
-        ├── database/
-        │   ├── swipe.index.md
-        │   ├── swipe/
-        │   └── entries/
-        └── examples/
+├── SKILL.md                       # Canonical spec — DO NOT duplicate rules elsewhere
+├── EXAMPLES.md                    # Canonical examples — parser input
+├── README.md                      # You are here
+│
+├── database/                      # Auto-generated from EXAMPLES.md
+│   ├── hooks.index.md             #   Master table (all 131 hooks, one row each)
+│   ├── hooks/                     #   One file per hook, YAML front-matter + annotations
+│   ├── creators/                  #   One file per creator with voice notes
+│   ├── by-format/                 #   One file per format (Dense/Punchy+/Bomb/Stacked)
+│   └── by-rule/                   #   One file per rule → every hook citing it
+│
+├── briefs/                        # Reusable hook-writing briefs (per post type)
+│   ├── _base-brief.md             #   Shell all briefs extend
+│   ├── data-framework-post.md
+│   ├── personal-narrative-post.md
+│   ├── announcement-launch-post.md
+│   ├── thought-leadership-post.md
+│   ├── sponsored-partnership-post.md
+│   ├── case-study-post.md
+│   ├── teardown-post.md
+│   ├── listicle-post.md
+│   ├── acknowledgment-post.md
+│   └── remix-from-source.md
+│
+├── references/                    # Supplementary docs (do NOT duplicate SKILL.md)
+│   ├── INTAKE.md                  #   How to add new hooks to the database
+│   ├── niche-remix-protocol.md    #   Exact procedure for adapting hooks to a new niche
+│   └── quick-lookup.md            #   "I want X → go here" cheat sheet
+│
+└── scripts/
+    └── build_db.py                # Parser: EXAMPLES.md → database/
 ```
 
-## Contributing
+## How to use it
 
-Skills are living documents. Drop content into the right directory, update the matching index, cross-link. See each skill's `SKILL.md` for its intake protocol.
+### Write hooks right now
+
+- **From a draft**: paste it to the skill. `SKILL.md` workflow handles it.
+- **From a topic**: open the brief in `briefs/` that matches the post type, fill it, send it.
+- **From a source hook**: use `briefs/remix-from-source.md`.
+
+### Learn a format or rule
+
+- **Format**: `SKILL.md` has the rulebook. `database/by-format/<slug>.md` has every example.
+- **Rule**: `database/by-rule/rule-NN.md` has every hook citing that rule.
+- **Creator**: `database/creators/<slug>.md` has their hooks + pattern tendencies.
+
+### Add new hooks to the system
+
+See `references/INTAKE.md`. TL;DR: edit `EXAMPLES.md`, run `python3 scripts/build_db.py`.
+
+### Adapt a hook to a different niche
+
+See `references/niche-remix-protocol.md`.
+
+## Conventions
+
+- `SKILL.md` is the single source of truth for rules, formats, bans, and workflow. Other files reference it; they never re-state it.
+- `EXAMPLES.md` is the single source of truth for example hooks. `database/` is derived.
+- Hook ids are 4-digit, zero-padded, globally sequential across formats (0001–0131 currently).
+- Rule ids are 2-digit, matching the numbering in `SKILL.md` § Hook Writing Rules.
+
+## Stats (current)
+
+- Hooks: **131**
+- Creators: **21** (+1 placeholder)
+- Formats: **4** (Dense, Punchy+Context, Single-Line Bomb, Stacked)
+- Rules indexed: **14** of 40 (only rules currently cited by hooks in EXAMPLES.md)
+
+Run `python3 scripts/build_db.py` after any edit to `EXAMPLES.md` to refresh.
