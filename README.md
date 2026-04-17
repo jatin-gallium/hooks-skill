@@ -1,48 +1,44 @@
 # hooks-skill
 
-A workspace for building and experimenting with Cursor hooks and skills.
+A workspace for building reusable **skills** — structured, searchable, directly-usable knowledge packs.
 
-## Overview
+## Skills in this repo
 
-This repository is a starting point for developing custom hooks and reusable skills. It is intentionally minimal so you can shape it around your own workflow.
+- [**linkedin-hooks**](./skills/linkedin-hooks/SKILL.md) — the ultimate playbook for writing LinkedIn hooks, posts, and story frameworks. Niche-agnostic; ships with a tagged swipe database, hook templates, story-framework templates, and generator playbooks.
 
-## Getting Started
+## What "skill" means here
 
-1. Clone the repository:
+A skill is a directory with:
 
-   ```bash
-   git clone https://github.com/jatin-gallium/hooks-skill.git
-   cd hooks-skill
-   ```
+- A top-level `SKILL.md` declaring what the skill is for and when to use it.
+- A `references/` directory of mental-model + reference docs.
+- A `templates/` directory of fill-in-the-blank templates (hooks, stories, generators).
+- A `database/` directory of real examples indexed by tags.
+- An `examples/` directory of worked end-to-end uses.
 
-2. Create a branch for your changes:
+The design goal: you enter from any layer (an idea, a pattern, a framework, a real swipe) and can navigate to any other in one or two links.
 
-   ```bash
-   git checkout -b my-change
-   ```
-
-3. Make your edits, then commit and push:
-
-   ```bash
-   git add .
-   git commit -m "Describe your change"
-   git push -u origin my-change
-   ```
-
-## Project Structure
+## Repo layout
 
 ```
 .
-├── README.md   # You are here
-└── .git/       # Git metadata
+├── README.md
+└── skills/
+    └── linkedin-hooks/
+        ├── SKILL.md
+        ├── README.md
+        ├── references/
+        ├── templates/
+        │   ├── hooks/
+        │   ├── stories/
+        │   └── generators/
+        ├── database/
+        │   ├── swipe.index.md
+        │   ├── swipe/
+        │   └── entries/
+        └── examples/
 ```
-
-More files and directories will be added as the project grows.
 
 ## Contributing
 
-Contributions are welcome. Please open an issue to discuss significant changes before submitting a pull request.
-
-## License
-
-No license has been specified yet. Until one is added, all rights are reserved by the repository owner.
+Skills are living documents. Drop content into the right directory, update the matching index, cross-link. See each skill's `SKILL.md` for its intake protocol.
