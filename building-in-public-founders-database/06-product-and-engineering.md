@@ -146,3 +146,63 @@ Not our brains. Not our vision.
 But the 20+ hours a week we all spend manually translating ideas into the entire B2B content lifecycle.
 
 The goal of Imagine AI is to automate that entire process—from creation to distribution—so you can focus on the things only a human can do.
+
+---
+
+## Batch 2 — Hendrix Liu
+
+---
+
+### #150 — Artificial Societies launch — simulate any group of people
+
+**Tags:** #launch #simulation #marketing #product
+**Type:** Launch Story
+**Date:** Aug 26, 2025
+**Engagement:** 1.9K reactions, 1.2K comments, 66 reposts (Score: 21,697)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7356374516962349058
+
+Today, we are thrilled to release the brand new Artificial Societies to the world.
+
+We simulated 1000 VC investors that helped us get into YC. We simulated our YC batch-mates for the sales team at Anthropic. We simulated your personal network with just your LinkedIn URL.
+
+We've been learning by building. And now, we are bringing everything we've learned into one product - Artificial Societies, the one place where you can simulate any group of people, and test any type of message, before you take the bet in reality.
+
+Marketing leaders are already using AS to help their teams experiment 10x faster - across landing pages, social content, ads, and more.
+
+---
+
+### #151 — Non-technical co-founder's journey: from 9-5 to simulations
+
+**Tags:** #non-technical #co-founder #product-journey #simulations
+**Type:** Story
+**Date:** Aug 26, 2025
+**Engagement:** 416 reactions, 68 comments, 7 reposts (Score: 2,774)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7356374723322109955
+
+I used to work a 9-5, I had no technical skill, and my career was heading nowhere.
+
+The one thing I was really passionate about was running experiments, to test whether reframing a message would actually lead to higher sales and retention. The problem is they would take months.
+
+I met James in a coffee shop last September, and he showed me a simulation for the first time. It was one of those moments you can just feel is going to change your life.
+
+Fast forward to today, we've taken this concept from a scrappy prototype to a product where you can create a simulation of anyone for running your own experiments.
+
+I never imagined this was possible, let alone that I would be involved in creating it.
+
+---
+
+### #152 — Prompt engineering is being replaced by context engineering
+
+**Tags:** #context-engineering #prompts #rag #agents
+**Type:** Hot Take
+**Date:** Jul 27, 2025
+**Engagement:** 73 reactions, 4 comments, 4 reposts (Score: 413)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7345539932322525185
+
+Prompt engineering is being replaced by context engineering.
+
+As LLMs get more powerful, we expect them to handle more complex tasks. Developers are now building complex workflows and giving sophisticated tasks to AI agents. Simple prompt engineering isn't enough anymore.
+
+Context engineering is about structuring and passing the right information at the right time, using tools like RAG, memory, history, and state. It breaks down a complex task into smaller steps — each with the context it needs to succeed.
+
+If you're building serious AI apps, this is where your biggest wins will come from.

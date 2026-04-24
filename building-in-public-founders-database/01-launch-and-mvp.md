@@ -197,3 +197,121 @@ The result? It wrote the entire copy for imagineai.me. In a voice that blended m
 This is the future of building. It's not about replacing creatives. It's about giving them leverage.
 
 When you're a scrappy founder, you use every advantage you can get.
+
+---
+
+## Batch 2 — Hendrix Liu
+
+---
+
+### #082 — Artificial Societies raised $5.3M seed — from leaving home at 14
+
+**Tags:** #fundraising #seed #origin-story #cambridge
+**Type:** Story + Announcement
+**Date:** Sep 25, 2025
+**Engagement:** 2K reactions, 262 comments, 47 reposts (Score: 12,534)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7366535540608786432
+
+Artificial Societies has raised $5.3M in seed-stage financing.
+
+When I left home at 14 to build a new life overseas, the goal was survival, everything else was luxury. Back then, startups were science fiction.
+
+Somehow, I got into Cambridge. Somehow, I was neck-deep in modelling human behaviour with the world's best researchers. There, we stitched together 33,000 AI chatbots and watched them build a digital society.
+
+That's where this crazy idea began - what if we could test every idea before they hit reality?
+
+We started Artificial Societies in late 2024; joined YC in January; launched our first demos in March. And earlier this month, we released our flagship social simulation platform for anyone to sign up and use.
+
+To all our investors and supporters - thank you for your conviction.
+
+Artificial Societies is our life's work - our shot at leaving a dent in the universe.
+
+---
+
+### #083 — Respan raised $5M seed led by Gradient
+
+**Tags:** #fundraising #seed #observability #ai-infra
+**Type:** Announcement
+**Date:** Mar 24, 2026
+**Engagement:** 776 reactions, 247 comments, 49 reposts (Score: 6,448)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7440053958922051584
+
+Today we're announcing that Respan has raised a $5M seed round led by Gradient, with participation from Y Combinator, Hat-Trick Capital, and incredible angels and AI founders.
+
+We started building Respan because we believed AI teams needed more than traces and eval scores. They needed a system that could help them understand failures, catch regressions early, and turn those signals into actions they could actually ship.
+
+Over the past year, we've grown to support 100+ startups and enterprise teams, processing 1B+ logs and 2T+ tokens every month across 6.5M+ end users. We grew revenue 8x YoY in 2025.
+
+Living and working together in one hacker house with my team has been a hell of a ride.
+
+---
+
+### #084 — Momentic raised $3.7M seed — testing platform
+
+**Tags:** #fundraising #seed #testing #yc
+**Type:** Announcement
+**Date:** Apr 23, 2025
+**Engagement:** 675 reactions, 118 comments, 16 reposts (Score: 4,587)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7302748994881916929
+
+We raised a $3.7 million seed round led by FundersClub!
+
+Over the past year, many of the world's top product teams have chosen Momentic as their go-to testing platform. Today, our customers are executing millions of browser interactions and catching thousands of bugs before they ever reach production.
+
+Testing is hard, but it shouldn't be. Engineers no longer have to choose between quality and speed.
+
+Special shoutout to Harj Taggar for being our first investor and an incredible partner.
+
+---
+
+### #085 — We're backed by YC — AutoSitu coming out of stealth
+
+**Tags:** #yc #launch #stealth #construction
+**Type:** Announcement
+**Date:** Feb 22, 2026
+**Engagement:** 299 reactions, 60 comments, 3 reposts (Score: 2,101)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7423394868028293120
+
+Y Combinator just backed AutoSitu (YC W26) to fix a broken part of the entitlement & permitting process.
+
+I still remember hitting submit on our YC application from a $50 hotel room at a conference.
+
+Now, with Y Combinator's backing, we're coming out of stealth to modernize how plans get reviewed.
+
+---
+
+### #086 — Momentic raised Series A — source of truth for software
+
+**Tags:** #fundraising #series-a #testing #growth
+**Type:** Announcement
+**Date:** Dec 24, 2025
+**Engagement:** 393 reactions, 47 comments, 10 reposts (Score: 2,455)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7398768223921430530
+
+We've raised a Series A!
+
+Building Momentic has been the journey of a lifetime. Just 2 years ago, all we had was a hackathon prototype and a YC application.
+
+Today, we're processing over a billion tokens per hour at peak developer hours. That equates to hundreds of thousands of automated tests and millions of AI-powered steps per day.
+
+Our mission is more than just testing now. It's building the source of truth for how your software should work.
+
+---
+
+### #087 — Today Keywords AI is rebranding as Respan
+
+**Tags:** #rebrand #naming #identity #pivot
+**Type:** Announcement
+**Date:** Mar 24, 2026
+**Engagement:** 191 reactions, 30 comments, 13 reposts (Score: 1,281)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7432839386553036800
+
+Today, Keywords AI is rebranding as Respan.
+
+When we introduced ourselves as "Keywords," people were often confused. "Are you building an SEO tool?" was the most common question we heard.
+
+Over the past two years, we have been building the same AI observability platform. The product evolved. Our focus became clear. But the name stayed the same.
+
+Why Respan? Because in the world of AI applications, the atomic unit is a span. You trace request spans. You debug latency spans. You evaluate execution spans. Everything starts with a span.
+
+Better name, better product.

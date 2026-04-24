@@ -356,3 +356,348 @@ But we showed up.
 Went to the Founders Inc. open house on the 20th. Bumped into Ruslan and Adrianna. Realized we'd accidentally ghosted them. Explained the chaos (and the wisdom teeth). Got accepted the same day.
 
 A reminder that sometimes, the most important thing is just showing up. Even when things are messy. Even when you think you've missed your shot.
+
+---
+
+## Batch 2 — Hendrix Liu
+
+---
+
+### #132 — SF is best place to build — but we moved to Alameda
+
+**Tags:** #sf #alameda #hacker-house #focus #rent
+**Type:** Story + Lesson
+**Date:** Apr 2, 2026
+**Engagement:** 179 reactions, 16 comments, 1 repost (Score: 1,057)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7443042167473901569
+
+SF is the best place to build a startup. We still moved out.
+
+2 years ago we came to SF. The energy was real. But we were paying $8,000/month for a 3-bedroom apartment.
+
+Then we found a house in Alameda, 30 minutes away: 6 bedrooms, more space, quieter streets - for $7,000/month.
+
+It changed how we work. It's quiet. It's safe. It's easy to focus here. When we need SF - events, meetings, energy - it's a 30-minute drive.
+
+Today, 7 people from our team live here. The house is full. We're already thinking about renting the one next door.
+
+The lesson isn't "don't go to SF." It's that you don't need to live right in the middle of it. Sometimes the best place to build is nearby, not inside the chaos.
+
+---
+
+### #133 — Competed on working hours for a week — all hit 89 hours
+
+**Tags:** #hustle #competition #productivity #shipping
+**Type:** Story
+**Date:** Apr 23, 2025
+**Engagement:** 316 reactions, 32 comments, 3 reposts (Score: 1,906)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7310036553181855745
+
+What if you competed with your co-founders on working hours for a week?
+
+The rules were simple:
+1. Only desk time counts.
+2. Pause your timer for ANYTHING that's not work.
+3. Everyone wins if we all hit 89 hours by 11:59 PM Sunday.
+
+The result? We ALL hit 89 hours before midnight, making it our most productive week EVER! (Special shoutout to Raymond for hitting 92 hours!)
+
+What we achieved: Launched as official tracing sub-processor for OpenAI agents SDK, 50% more signups, API key management, fresh design for Traces, migration to ClickHouse, and tons of other features.
+
+---
+
+### #134 — 2 years after graduating, spoke at UIUC with YC partner
+
+**Tags:** #full-circle #speaking #college #yc
+**Type:** Story
+**Date:** Feb 22, 2026
+**Engagement:** 106 reactions, 14 comments, 3 reposts (Score: 676)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7424546741515067393
+
+2 years after graduating, I went back to UIUC and spoke in front of hundreds of students with YC partner Pete and my co-founder Andy.
+
+During the talk, we shared how we started with zero funding, and how we built a real product while still in school.
+
+We also shared something we're proud of: we made it through two years on just $500K from YC and became ramen profitable.
+
+One line I said during the talk really sums it up for me: "I'm really grateful that I get to build a startup with my best friends and college roommates."
+
+---
+
+### #135 — Team offsite in Santa Cruz — 12x traffic, 650% ARR growth
+
+**Tags:** #offsite #milestones #reflection #growth
+**Type:** Story + Milestone
+**Date:** Jan 23, 2026
+**Engagement:** 153 reactions, 18 comments, 3 reposts (Score: 951)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7414406588964372480
+
+Began our second team offsite in Santa Cruz. It feels very different from our first one.
+
+Back in 2024, it was just four of us. We drove to LA at midnight, got there around 5am, and were so frugal we didn't even book a hotel. That "offsite" quickly turned into an incident response — our traffic started exploding, essentially doubling every couple of hours.
+
+2025 was a defining year for us:
+- 12x traffic compared to Oct 2024
+- 650% ARR growth
+- 2x Team size
+- Achieved infinite runway (profitable on just our initial YC funding)
+
+We've come a long way since sleeping in the car.
+
+---
+
+### #136 — 60% of investors rejected us — we chose to bootstrap
+
+**Tags:** #pivot #bootstrap #rejection #product-market-fit
+**Type:** Story + Lesson
+**Date:** Sep 25, 2025
+**Engagement:** 72 reactions, 7 comments, 2 reposts (Score: 434)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7373817133425860609
+
+60% of investors rejected us. 40% tried to convince us to stick with the fancy idea.
+
+We chose to bootstrap.
+
+Back in early 2024, Keywords AI was an LLM router. But when YC started, reality hit. We tried selling the router to batchmates and alumni, and it didn't resonate.
+
+When investors told us to stick with the router, we had a choice. What founders we talked to weren't asking for a router. What they wanted was clear: no visibility into what LLMs were doing, messy prompts, and no reliable way to measure improvements.
+
+We didn't chase the sexiest idea. We chased the one that mattered.
+
+Today, Keywords AI powers over 1000+ AI teams.
+
+---
+
+### #137 — We used to cook every meal — now meal service to save time
+
+**Tags:** #frugality #time-vs-money #evolution #food
+**Type:** Story + Lesson
+**Date:** Jun 27, 2025
+**Engagement:** 155 reactions, 33 comments, 5 reposts (Score: 1,115)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7332896851588775938
+
+We used to cook every meal to save money. Now we use a meal service to save time.
+
+As a scrappy team, Andy and I handled everything ourselves. Every two weeks, we'd go to Costco — spending over 3 hours planning what to buy. On top of that, 1-2 hours every day cooking and doing dishes.
+
+We saved money (around $900/month for three of us), ate healthy, avoided takeout. But the hidden cost was time: over 25 hours a week on food-related tasks.
+
+It's 50% more expensive, but it frees up hours every day. That time now goes straight back into building the product.
+
+For early-stage founders: frugality is important, but time is your most valuable resource.
+
+---
+
+### #138 — Friend → Roommate → Teammate — hiring from your network
+
+**Tags:** #hiring #network #friendship #trust
+**Type:** Story
+**Date:** Jun 27, 2025
+**Engagement:** 75 reactions, 3 comments, 2 reposts (Score: 409)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7336161394112831489
+
+Friend → Roommate → Teammate.
+
+I met Michael on the first day of college. We quickly became friends. He's one of the best programmers I know — started coding at 10.
+
+I spent countless nights in the library debugging my code. Michael helped me through it all.
+
+Years later, as our startup began to grow, Michael was the first person we called. Now he's our full-stack engineer at Respan.
+
+I truly believe that hiring from your own network is the best way to build an early-stage startup. When you hire people you trust, you don't have to worry about their character or integrity.
+
+---
+
+### #139 — We moved out — I really miss the post-it wall
+
+**Tags:** #post-its #progress #motivation #visual
+**Type:** Story + Lesson
+**Date:** Apr 23, 2025
+**Engagement:** 220 reactions, 16 comments, 3 reposts (Score: 1,266)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7276440248757141504
+
+We moved out of our first place in SF, and I really miss this wall.
+
+When we started Respan, we used post-its on this wall to track our progress. Each note marked a completed task, with one simple goal - fill the entire wall.
+
+This wall became more than just notes - it was our story on display. Every visitor - friends, customers, investors - could see our journey and dedication in one glance.
+
+In startups, tracking progress isn't about project management — it's about visually reminding yourself of every milestone achieved, keeping you motivated through the toughest days.
+
+---
+
+### #140 — Every Friday we show our work — internal demos
+
+**Tags:** #demos #alignment #ownership #team
+**Type:** Story + Lesson
+**Date:** Jul 27, 2025
+**Engagement:** 101 reactions, 7 comments, 2 reposts (Score: 579)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7352099201796747264
+
+Every Friday, we show our work.
+
+As we move faster — more engineers, more features — we've also started to feel a bit disconnected.
+
+So we started doing weekly internal demos. Each engineer walks through what they built that week — the challenges they faced, the ideas they're exploring, and anything cool they discovered.
+
+Explaining it out loud forced me to organize my thinking and surfaced blind spots I hadn't noticed.
+
+More importantly, it helped everyone understand why we're building this, not just what we're building.
+
+We've always moved fast. But now we're also making sure we're moving together.
+
+---
+
+### #141 — We all lived together — exercised every night at 11pm
+
+**Tags:** #exercise #health #frugality #routine
+**Type:** Story
+**Date:** Apr 23, 2025
+**Engagement:** 188 reactions, 14 comments, 2 reposts (Score: 1,084)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7262692350185869314
+
+At Respan, we try to exercise every day.
+
+We play badminton at 11 PM every night. Booking late-night slots saves us $15 each hour, and we've turned it into a fun competition — the loser pays for the next game.
+
+We live frugally by only paying ourselves a salary just enough to cover rent and necessities, but we spend most of our money on sports.
+
+Exercising isn't just fun — it's essential to us as founders building a startup for the long game.
+
+---
+
+### #142 — Best habit of 2025: weekly all-hands Monday morning
+
+**Tags:** #all-hands #transparency #metrics #alignment
+**Type:** Framework
+**Date:** May 28, 2025
+**Engagement:** 37 reactions, 0 comments, 2 reposts (Score: 189)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7325585566220046338
+
+The best habit we built in 2025: a weekly all-hands meeting every Monday morning.
+
+I prepare a quick summary covering: current revenue (MRR and ARR), WoW and MoM growth, number of paying customers and trials, demos, cash in the bank and runway, weekly/monthly goals.
+
+I share these metrics in 2 minutes, leaving 3 minutes for questions.
+
+Everything is transparent, and that transparency builds trust and ownership. Every team member knows exactly where we stand as a company.
+
+This simple but effective meeting drives us to maintain momentum. We've had our best months ever, achieving 30% MoM growth in 2025.
+
+---
+
+### #143 — Weekdays build product, weekends customer success
+
+**Tags:** #customer-success #weekends #hustle #growth
+**Type:** Story
+**Date:** Sep 25, 2025
+**Engagement:** 90 reactions, 2 comments, 3 reposts (Score: 476)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7376327781720260610
+
+Weekdays are for building the product. Weekends are for customer success.
+
+This weekend, we visited one of our best customers, Mem0.
+
+They're one of the strongest AI teams we know - and working with customers like them keeps pushing us to improve Respan every day.
+
+---
+
+### #144 — 7am Sunday — team already up watching football together
+
+**Tags:** #team #culture #hacker-house #bonding
+**Type:** Story
+**Date:** Jul 27, 2025
+**Engagement:** 56 reactions, 1 comment, 4 reposts (Score: 298)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7343365554373611521
+
+7am, last Sunday. Walked out and saw the team already up, watching football together.
+
+Moments like this remind me how much our lives overlap — not just building and working, but actually sharing everyday life.
+
+It's easy to get caught up in deadlines, launches, and all the chaos. But these small, ordinary mornings matter too.
+
+---
+
+### #145 — Making progress visible — post-it wall during YC
+
+**Tags:** #progress #visibility #motivation #yc
+**Type:** Lesson
+**Date:** Feb 22, 2026
+**Engagement:** 92 reactions, 9 comments, 2 reposts (Score: 554)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7429583514884513792
+
+During our YC batch, we made every bit of progress visible.
+
+We had one wall in our apartment, and we covered it with post-its. Every time we finished something - fix a bug, ship a feature, send a customer follow-up - we wrote it down and put it on the wall.
+
+On good days, it felt rewarding. On bad days, it kept us steady. When things felt slow, we could still point to the wall and say, "We did all of this. We're not stuck."
+
+Making progress visible doesn't solve the hard parts, but it makes it easier to keep going.
+
+---
+
+### #146 — Our CTO is on a date with Claude Code at a bar
+
+**Tags:** #culture #humor #coding #valentine
+**Type:** Story
+**Date:** Feb 22, 2026
+**Engagement:** 93 reactions, 5 comments, 2 reposts (Score: 519)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7428573952878411777
+
+it's valentine's weekend and my cto is on a date with claude code at a bar
+
+---
+
+### #147 — We hated meetings — now run daily standups everyone leads
+
+**Tags:** #standups #meetings #leadership #team
+**Type:** Lesson
+**Date:** Oct 25, 2025
+**Engagement:** 15 reactions, 1 comment, 2 reposts (Score: 89)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7383898147330146304
+
+We've always hated meetings. But now, we run daily standups - and everyone on the team leads one of them.
+
+Each teammate takes turns leading one standup per week. Whoever leads lists the problems they're facing, proposes ideas, and asks for feedback or help.
+
+Now, our standups actually feel alive. We discuss real problems, unblock each other faster, and feel much more connected as a team.
+
+---
+
+### #148 — Qualify new hires by one rule: can they live with us?
+
+**Tags:** #hiring #culture #hacker-house #passion
+**Type:** Lesson
+**Date:** Dec 24, 2025
+**Engagement:** 39 reactions, 5 comments, 3 reposts (Score: 251)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7403886118716547073
+
+We qualify new hires by one simple rule: Can they live with us?
+
+The truth is, early teams don't need the "most qualified" people. They need the most committed.
+
+We don't obsess over a perfect resume. We have the docs to teach anyone our tech stack in days. But you can't teach passion.
+
+That is why we don't have an office in San Francisco. Instead, we rent a hacker house in Alameda and we all live together.
+
+At 11 PM, instead of being alone in an apartment, we are sitting in the living room debugging a critical issue together.
+
+In the early days, grind beats experience every single time.
+
+---
+
+### #149 — The best dev tool perk: watching customers grow
+
+**Tags:** #customer-growth #long-term #dev-tools #journey
+**Type:** Story + Lesson
+**Date:** Dec 24, 2025
+**Engagement:** 29 reactions, 7 comments, 2 reposts (Score: 219)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7407208936329711618
+
+The best part of building a dev tool is watching customers grow.
+
+Our earliest customers grew from 100 logs a day to 1 billion traces per month. We have been with them since their day zero.
+
+We onboarded every customer hands-on and took every request seriously, no matter how much they paid us. That tight feedback loop helped us iterate fast and build real trust.
+
+Building for startups taught us that your growth is simply a reflection of your customers' success. When you help builders win, you win too.

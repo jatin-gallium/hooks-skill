@@ -296,3 +296,184 @@ After hundreds of conversations, two things became crystal clear:
 Amidst the Demo Day chaos, our small team quietly crossed a milestone: $5k in total revenue.
 
 It's not a massive number. But it's real. It's traction. It proves we're solving a problem that people will pay for.
+
+---
+
+## Batch 2 — Hendrix Liu
+
+---
+
+### #088 — First 6-figure contract deposit hit the bank
+
+**Tags:** #revenue #6-figure #enterprise #support
+**Type:** Milestone
+**Date:** Feb 22, 2026
+**Engagement:** 450 reactions, 50 comments, 2 reposts (Score: 2,754)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7427432514002124803
+
+Milestone +1: our first 6-figure contract deposit just hit the bank.
+
+We never intentionally chased a big deal - we just kept building a product customers love, and stayed as supportive as always.
+
+What got us here:
+- We worked with this team from their early days
+- We showed up with 24/7 support for the past 2 years
+- We kept shipping a tier-1 product
+
+---
+
+### #089 — G2 named Retell AI top 3 fastest-growing software 2026
+
+**Tags:** #recognition #growth #product-led #voice-ai
+**Type:** Milestone
+**Date:** Feb 22, 2026
+**Engagement:** 307 reactions, 70 comments, 23 reposts (Score: 2,281)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7430752500254896129
+
+G2 just named Retell AI one of the top three fastest-growing software companies of 2026.
+
+To me, this recognition proves something simple: if you build the right thing, the market will find you. It is a byproduct of product excellence and a top-notch user experience.
+
+We did not run a big GTM play to get here. We just kept building a product people actually want to keep using. That is it. That is the whole strategy.
+
+---
+
+### #090 — Retell AI $11M ARR with 10 employees, profitable
+
+**Tags:** #revenue #lean-ai #arr #profitable #10-person
+**Type:** Milestone + Framework
+**Date:** Jun 27, 2025
+**Engagement:** 273 reactions, 24 comments, 11 reposts (Score: 1,627)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7339368786958946305
+
+Lean AI Leaderboard Update: Retell AI just hit $11M ARR with 10 employees and grew by 50%+ within a month!
+
+10-person team. Profitable. Fully AI-augmented across GTM, support, ops, and content.
+
+AI Lead Qualification Agent: Instantly calls leads from Meta/Facebook ads, runs voice-based qualification, pushes call summaries to CRM + books meetings. 35%+ appointment booking rate.
+
+AI Support Agents: Inkeep answers Discord 24/7. Pylon handles L1 support. Evy AI handles first response for 2/3 of tickets, fully resolves 1/4.
+
+AI Partner Ops Agent: Zapier collects partner info, auto-sends DocuSign agreements, publishes logos. Fully automates a 15-hour/month manual process.
+
+AI Content Engine: Gumloop transcribes recorded content, converts to SEO blogs, publishes with minimal editing. Cuts content creation time by 60%.
+
+Retell is what happens when a 10-person team scales like 100 — by building with AI from day one.
+
+---
+
+### #091 — Retell AI in 2026 Enterprise Tech 30 — least funded on list
+
+**Tags:** #recognition #lean #enterprise #revenue-per-employee
+**Type:** Milestone
+**Date:** Apr 2, 2026
+**Engagement:** 303 reactions, 34 comments, 8 reposts (Score: 1,871)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7444928715580510208
+
+Retell AI just made it into the 2026 Enterprise Tech 30 list, alongside Anthropic, Stripe, Databricks, and SpaceX.
+
+And we got here as the least funded company on the list. $5M raised. By design.
+
+Garry Tan talks about "20x companies" - strong IC teams building AI-natively, beating incumbents 20x their size. That's us.
+
+$1.5M+ rev per employee. No BS + pure impact.
+
+---
+
+### #092 — 413M logs processed — from 500/day goal to this
+
+**Tags:** #traction #scale #logs #yc-growth
+**Type:** Milestone
+**Date:** Apr 23, 2025
+**Engagement:** 161 reactions, 19 comments, 4 reposts (Score: 1,003)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7301029585301684225
+
+In the past 30 days, Respan processed 413M logs (+17%) on our enterprise platform and 5M logs (+192%) on our developer platform.
+
+A year ago in YC office hours, our goal was to find 1 customer with 500 daily logs. We thought it was an ambitious goal at the time. I guess you could say we've scaled quite a bit :)
+
+---
+
+### #093 — Openmart processes 1M+ SMB leads per month
+
+**Tags:** #traction #milestone #leads #smb
+**Type:** Milestone
+**Date:** Apr 23, 2025
+**Engagement:** 142 reactions, 26 comments, 6 reposts (Score: 982)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7306001371189690368
+
+Openmart now processes 1 million+ SMB leads per month for our customers.
+
+Consistent usage is the strongest sign of making what people want, and that's exactly what we're seeing.
+
+---
+
+### #094 — Ramen profitable announcement
+
+**Tags:** #profitable #ramen #milestone #bootstrap
+**Type:** Milestone
+**Date:** Apr 23, 2025
+**Engagement:** 125 reactions, 18 comments, 3 reposts (Score: 811)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7290491461588893696
+
+I'm happy to announce that Respan is Ramen Profitable now!
+
+---
+
+### #095 — Crossed 10 billion OpenAI tokens
+
+**Tags:** #milestone #scale #openai #traffic
+**Type:** Milestone
+**Date:** Nov 24, 2025
+**Engagement:** 99 reactions, 10 comments, 2 reposts (Score: 599)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7394052965646495745
+
+We just crossed 10 billion OpenAI tokens.
+
+I'm really proud of this milestone. We reached this level of traffic even before shipping many of the AI features we're building.
+
+I honestly never imagined we would get here, or receive a recognition from OpenAI.
+
+---
+
+### #096 — We raised $0 at demo day — then raised seed 2 years later
+
+**Tags:** #fundraising #persistence #rejection #patience
+**Type:** Story + Lesson
+**Date:** Apr 2, 2026
+**Engagement:** 330 reactions, 38 comments, 3 reposts (Score: 2,036)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7444834714051334144
+
+We might be the only YC company that raised $0 at demo day and then raised a seed round 2 years later.
+
+For context, we are still building the same product we started in YC. No pivot.
+
+During YC, we spent 3 months building the first version of Respan. But in 2024, most AI startups were still simple GPT wrappers. LLM usage was not high enough for most teams to feel the pain we were solving.
+
+After around 40 straight rejections, we decided to stop fundraising. Our burn was low, and we had enough runway to keep going.
+
+So we stayed focused. We kept building. We kept talking to users.
+
+Over the next 2 years, that persistence changed everything.
+
+Today, we are serving hundreds of AI teams and 6.5 million end users through our customers.
+
+This time, the conversation with investors was very different. Instead of us chasing them, many of them were chasing us.
+
+Looking back, I'm glad we stayed with the same problem long enough to see the market catch up.
+
+---
+
+### #097 — Another YC founder switched from Langsmith — founder support wins
+
+**Tags:** #switching #support #product-led #midnight
+**Type:** Story
+**Date:** Feb 22, 2026
+**Engagement:** 127 reactions, 7 comments, 4 reposts (Score: 713)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7421362191112613888
+
+Another YC founder just switched from langsmith to Keywords AI.
+
+You're not getting founder-level support at 12am on a Saturday from most tools.
+
+Founder support + product-led growth wins.

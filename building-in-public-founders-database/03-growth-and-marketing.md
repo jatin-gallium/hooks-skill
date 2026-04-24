@@ -630,3 +630,304 @@ What if every single job posting was also a strategic marketing asset? A direct 
 People actively searching for jobs are highly engaged. They're already in discovery mode. They click your posting, they land on your company page, they explore. They see who you are, not just what you're hiring for.
 
 It's a powerful, often overlooked, source of warm organic traffic and brand building. Especially when you're building in public and want to showcase your culture and vision.
+
+---
+
+## Batch 2 — Hendrix Liu
+
+---
+
+### #098 — We chose not to raise a seed round — return-on-software model
+
+**Tags:** #frugality #bootstrap #roi-model #runway
+**Type:** Framework
+**Date:** Apr 23, 2025
+**Engagement:** 285 reactions, 24 comments, 4 reposts (Score: 1,673)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7320158757697515520
+
+We chose not to raise a seed round - it taught us to make every dollar count.
+
+After YC, we decided not to raise money because we didn't want to spend countless hours taking investor calls. With at least 2 years of runway, we felt secure.
+
+We developed a return-on-software model to evaluate every tool before buying it:
+- Will it increase our revenue? For every $1,000 added revenue, we allow a $100 increase in budget.
+- Will it save our team time? For every hour saved each month, we add $100 to the budget.
+- Will it take time to integrate or onboard? For every hour required, we subtract $50 from the budget.
+- Is there a strong alternative with lower cost or is it possible to build in-house? If so, we look at those first.
+
+Staying frugal has helped us focus on building Respan, not fundraising — and making every dollar count.
+
+---
+
+### #099 — Biggest YC sales mistake: not doing follow-ups after demos
+
+**Tags:** #sales #follow-ups #conversion #framework
+**Type:** Lesson + Framework
+**Date:** Apr 23, 2025
+**Engagement:** 50 reactions, 8 comments, 2 reposts (Score: 334)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7320588920642056193
+
+The biggest mistake we made during YC was not doing follow-ups after demos.
+
+Our outreach brought in about 15 demos per week, but the conversion rate was poor. Only 1 out of 15-20 calls became a customer.
+
+The issue? We thought a successful demo was the end of the sales process.
+
+Here's the follow-up routine I started using:
+- Day 0: Send a recap email right after the demo.
+- Day 2: Ask if they've tried the product.
+- Day 4: Gently nudge them to test it.
+- Day 7: Ask for feedback on their experience.
+- Day 10: Check if they're facing any blockers to integrate.
+- Day 14: Send one final follow-up to keep the door open.
+
+If you wait a month to follow up, you basically restart the sales cycle from scratch.
+
+---
+
+### #100 — I used to never post on LinkedIn — inbound > outbound
+
+**Tags:** #linkedin #inbound #building-in-public #results
+**Type:** Lesson + Data
+**Date:** Apr 23, 2025
+**Engagement:** 94 reactions, 23 comments, 3 reposts (Score: 706)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7272342512692805632
+
+I used to never post on social media. Now I post on LinkedIn/X daily.
+
+From January to June, we relied on outbound outreach. Results? Low demo rates and people who weren't our ideal customers.
+
+So we switched strategies: We started building Respan in public and sharing our stories online.
+
+The results in the first month:
+Demos: +50%
+New sign-ups: +35%
+MRR: +100%
+
+Best part? These inbound leads were serious customers who needed our solution.
+
+Building in public didn't just expand our reach - it built trust.
+
+---
+
+### #101 — Early-stage startups should hire interns, not senior engineers
+
+**Tags:** #hiring #interns #early-stage #cost
+**Type:** Hot Take
+**Date:** Sep 25, 2025
+**Engagement:** 111 reactions, 14 comments, 3 reposts (Score: 701)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7371973095336824832
+
+Early-stage startups should hire interns, not senior engineers.
+
+Senior engineers bring technical depth and experience. But in the earliest stage, those strengths often don't matter yet - and the costs do. A single senior hire can drain months of runway.
+
+Interns come with hunger and adaptability. They move fast, they're eager to learn, and they don't carry habits from big companies that slow things down. They're also more likely to grind side by side with the founders.
+
+Lost momentum and lost runway are not problems you can easily fix.
+
+In the first year, your job isn't to build the perfect system. It's to survive, ship fast, and prove that customers want what you're building.
+
+---
+
+### #102 — Founders must be the first users of their own products
+
+**Tags:** #dog-fooding #conviction #validation
+**Type:** Lesson
+**Date:** Apr 23, 2025
+**Engagement:** 79 reactions, 29 comments, 5 reposts (Score: 695)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7291495811119529984
+
+Founders must be the first users of their own products.
+
+This week, I spoke with several founders who admitted they never use their own products. The reason? They don't truly believe in their ideas. Instead, they rely on fancy marketing and catchy slogans to sell.
+
+If founders can't see value in their own product, how can they convince others? Success comes from genuine belief in your solution and its impact.
+
+The best validation comes from solving your own problems first.
+
+---
+
+### #103 — 5 tips for better LinkedIn posts — 10K followers in 9 months
+
+**Tags:** #linkedin #content #hooks #images #timing
+**Type:** Framework
+**Date:** Jun 27, 2025
+**Engagement:** 65 reactions, 12 comments, 2 reposts (Score: 449)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7333948485265760259
+
+After getting 10K+ followers and 1M+ impressions in 9 months, here are my key lessons for better LinkedIn posts:
+
+1. A good hook is half the battle. People only see the first 300 characters before clicking. Keep it clear, direct, and attention-grabbing.
+
+2. Always add images. Posts with images perform better.
+
+3. Don't tag people unless they'll engage. LinkedIn penalizes irrelevant tagging.
+
+4. Share stories, not just statements. People relate to real experiences more than generic advice.
+
+5. Timing matters. Posting in the morning usually works best for visibility and engagement.
+
+---
+
+### #104 — How first-time founders get first users: Launch, launch, launch
+
+**Tags:** #launch #product-hunt #linkedin #first-users
+**Type:** Framework
+**Date:** May 28, 2025
+**Engagement:** 68 reactions, 9 comments, 2 reposts (Score: 434)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7330356942093066240
+
+How can first-time startup founders get their first wave of traffic and users? Launch. Launch. Launch.
+
+For first-time founders, acquiring customers just by reaching out to your ICPs is tough. Trust is the backbone of sales, and as a new founder, you often lack the credibility.
+
+Here's how to nail your product launch:
+1. Build a simple MVP.
+2. Launch on platforms like Product Hunt, LinkedIn, X, and Hacker News.
+3. Prepare solid launch materials: posters, demo videos, your value proposition.
+4. Reach out to friends and supporters to help amplify.
+5. Cross-promote across social channels.
+6. Ask newsletters or technical writers to feature your product.
+
+Pro tip: Don't stop at one launch. You can launch 2-3 times a year.
+
+---
+
+### #105 — I spent a whole year closing a deal — sincerity works
+
+**Tags:** #sales #patience #trust #relationships
+**Type:** Story + Lesson
+**Date:** Jul 27, 2025
+**Engagement:** 49 reactions, 5 comments, 2 reposts (Score: 299)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7348063328251858946
+
+I spent a whole year closing a deal. But I gave up on selling.
+
+I pitched him hard. He was open to trying it out. But the product wasn't the right fit back then.
+
+I realized — it never makes sense to sell someone something they don't need. So I stopped.
+
+No follow-ups, no pressure. We just kept in touch. We became friends.
+
+Then earlier this year, out of nowhere, he subscribed to Respan. He said they were scaling, observability had become a real need — and he knew exactly who to go to.
+
+That moment meant a lot to me. Not because we closed a deal, but because it showed me that sincerity works. Real relationships matter more than perfect funnels.
+
+Some of the best customers come from the slowest paths. And some of the most meaningful wins don't feel like sales at all.
+
+---
+
+### #106 — If you're struggling with hiring, go back to your college
+
+**Tags:** #hiring #college #hackathon #recruiting
+**Type:** Lesson + Data
+**Date:** Feb 22, 2026
+**Engagement:** 61 reactions, 2 comments, 2 reposts (Score: 329)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7427099382958837760
+
+If you're struggling with hiring, consider going back to your college.
+
+We hosted the largest AI hackathon on campus. We spoke with 50+ students, and many were strong: hardworking, sharp, and already comfortable with modern tech stacks.
+
+Before this, we thought it could take 6+ months to hire 3-4 people. After the hackathon, we extended several full-time and intern offers.
+
+The wild part: the total cost of the hackathon was under $3k. That's cheaper than a referral bonus, and it's the most efficient hiring channel we've tried.
+
+---
+
+### #107 — We skipped 3 expenses after not raising seed
+
+**Tags:** #frugality #priorities #branding #hiring
+**Type:** Lesson
+**Date:** Jul 27, 2025
+**Engagement:** 62 reactions, 10 comments, 2 reposts (Score: 414)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7348830700420091907
+
+We didn't raise a seed round — so we had to skip these 3 expenses.
+
+1. Tools we weren't sure we needed. We didn't buy anything unless we were 100% sure it solved a real problem right now.
+
+2. Hiring too early. We waited until it was too painful to keep going alone.
+
+3. Branding before product. No agency, no designer. Even now, our landing page hasn't changed in over 15 months.
+
+Frugality helped us build faster, stay alive longer, and make better decisions.
+
+---
+
+### #108 — Never fear competition — embrace it
+
+**Tags:** #competition #motivation #improvement
+**Type:** Lesson
+**Date:** Apr 23, 2025
+**Engagement:** 60 reactions, 5 comments, 2 reposts (Score: 354)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7303178447701295104
+
+Never fear competition. Embrace it.
+
+Yes, we're in a crowded market. We even started a year later than most of our competitors. Despite this, we've always embraced the challenge, because healthy competition pushes us to give our full passion and energy to build the best product possible.
+
+We've lost some deals along the way. But instead of discouraging us, it motivates us to work even harder. It's a chance to investigate what others are doing and close the gap.
+
+Winning isn't just about beating the competition. It's about constantly improving and delivering real value to your customers.
+
+---
+
+### #109 — Customer sent us Chick-fil-A after we built feature in 1 hour
+
+**Tags:** #customer-love #speed #shipping #delight
+**Type:** Story
+**Date:** Feb 22, 2026
+**Engagement:** 83 reactions, 3 comments, 2 reposts (Score: 449)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7427796233148063744
+
+"I would be so so grateful for this. I will buy a dinner for the entire house!"
+
+That's what one of our customers said in Slack when he asked for a small feature.
+
+He wanted a simple button: copy the LLM conversation from the JSON without Base64.
+
+We built it in about an hour and shipped it right away.
+
+Later that day, our doorbell rang. An Uber driver was standing there with a big Chick-fil-A order. It was from that customer.
+
+Customers don't just pay for software. They notice care. They notice speed. They notice follow-through.
+
+---
+
+### #110 — Evals are overrated — simpler steps first
+
+**Tags:** #evals #observability #workflow-design #simplicity
+**Type:** Hot Take
+**Date:** Sep 25, 2025
+**Engagement:** 35 reactions, 8 comments, 2 reposts (Score: 259)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7375958523740012544
+
+Evals are overrated.
+
+Most teams push agents straight into production without much thought. They get bad feedback from users… and then panic.
+
+Many of these problems can be solved with simpler steps before you even think about evals:
+
+1. Design the workflow carefully. If you have a 10-step agent and every step loses just 1% accuracy, that's ~10% lost overall.
+
+2. Set up observability. You can't fix what you can't see.
+
+3. Simulate before shipping. Build a small golden dataset. Run your prompts on it.
+
+Only after you've done all this and still face performance issues - that's when evals make sense.
+
+---
+
+### #111 — At Retell we dedicate 90%+ effort to product — no paid ads
+
+**Tags:** #product-led #no-ads #focus #growth
+**Type:** Lesson
+**Date:** Apr 23, 2025
+**Engagement:** 85 reactions, 13 comments, 2 reposts (Score: 559)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7268067506265710592
+
+At Retell, we believe the best product always wins. That's why we dedicate 90%+ of our efforts to building and improving our core product. We don't invest on paid ads at all and let our product speak for itself.
+
+When you focus on delivering real value, everything else naturally falls into place.

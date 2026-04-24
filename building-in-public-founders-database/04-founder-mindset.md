@@ -572,3 +572,383 @@ Truth 3: Deep, unbiased understanding of the core challenge is the most valuable
 The question changes from "How do I hire more people?" to "How do I build a system to mine for fundamental insights and optimize core processes at scale?"
 
 Stop reasoning by analogy. Start reasoning from first principles.
+
+---
+
+## Batch 2 — Hendrix Liu
+
+---
+
+### #112 — $200/person food budget in SF — Chief Cooking Officer
+
+**Tags:** #frugality #food #lean #ramen-profitability
+**Type:** Story
+**Date:** Apr 23, 2025
+**Engagement:** 216 reactions, 32 comments, 3 reposts (Score: 1,406)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7254192454407528450
+
+My co-founders Raymond, Hendrix, and I survived off a $200/person food budget last month in SF.
+
+We opted against raising a demo day round post-YC, focusing solely on reaching ramen profitability. We may not be the fastest-growing startup, but we're certainly one of the leanest and most frugal.
+
+Instead of food deliveries and eating out, we lived off of Costco runs and cooked every meal in-house. And of course I picked up a new role as the Chief Cooking Officer at Respan.
+
+Many of our friends worried about our health. Surprisingly, we actually ended up eating healthier and feeling happier & grateful.
+
+---
+
+### #113 — My O1 visa approved — never imagined owning a startup
+
+**Tags:** #immigration #visa #gratitude #yc
+**Type:** Story
+**Date:** Apr 23, 2025
+**Engagement:** 380 reactions, 40 comments, 3 reposts (Score: 2,306)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7295186181179224067
+
+My O1 visa was approved today.
+
+I moved from China to the US 8 years ago. I never imagined I could own a startup in my early 20s. Growing up, I thought my only path was going to a good college and finding a job.
+
+This journey has not been easy, but it has taught me a lot. I want to thank my co-founders for their constant support and hard work. I am also very grateful to Y Combinator for believing in us.
+
+---
+
+### #114 — Intern fell asleep at desk at 4am — team that cares
+
+**Tags:** #team #dedication #intern #culture
+**Type:** Story
+**Date:** Aug 26, 2025
+**Engagement:** 809 reactions, 69 comments, 2 reposts (Score: 4,739)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7361105215267225600
+
+At 4am this morning, I walked out to grab some water - and found this scene.
+
+Our summer intern, Thomas, had fallen asleep at his desk, headphones on.
+
+Thomas joined us this summer to help clean up and refactor our frontend codebase. We flew him in from New York and invited him to live with us, so he could experience what building a startup is really like.
+
+Thanks to his work, our codebase is now cleaner and easier to maintain - things that often get overlooked in the race to ship features.
+
+Seeing this reminded me how lucky I am to work with a team that cares this much - not because they have to, but because they truly want to make things better.
+
+---
+
+### #115 — 175 days ago I was cold emailing during math class
+
+**Tags:** #relationships #people #cold-email #gratitude
+**Type:** Story
+**Date:** Jul 27, 2025
+**Engagement:** 320 reactions, 18 comments, 3 reposts (Score: 1,786)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7349825475478790144
+
+175 days ago I was cold emailing founders during my math classes back in high school.
+
+Andy Li was one of the few who actually replied and gave me a bunch of tips about the product and how to launch.
+
+147 days ago he and his team upvoted and shared my product launch across all their social media.
+
+46 days ago, he was really sick BUT still told me to call him so he could mock me before my Y Combinator interview.
+
+Yesterday, we finally met during a YC event.
+
+People are the key, and human relationships are one of the most valuable things humanity has to offer. No AI can ever replace them.
+
+---
+
+### #116 — We live together, work together — building with best friends
+
+**Tags:** #co-founders #trust #friendship #startup-life
+**Type:** Story
+**Date:** Apr 23, 2025
+**Engagement:** 311 reactions, 20 comments, 4 reposts (Score: 1,763)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7310721550863790081
+
+We live together, work together, and spend every moment together.
+
+Building a startup with best friends is truly a privilege. It's not always easy, but it's always worth it. The trust, support, and shared vision make every challenge feel achievable.
+
+---
+
+### #117 — Adam and I finished YC batch — 45% WoW growth
+
+**Tags:** #yc #growth #batch #reflection
+**Type:** Reflection
+**Date:** Apr 23, 2025
+**Engagement:** 309 reactions, 15 comments, 3 reposts (Score: 1,701)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7310017381248942081
+
+Adam and I just finished the Y Combinator batch! And it exceeded all my expectations.
+
+During the batch, we grew 45% week over week. So yes it worked!
+
+More importantly to me, I got to meet some of the coolest people in the world and build real connections.
+
+---
+
+### #118 — Early-stage growth depends on hours you put in
+
+**Tags:** #work-ethic #routine #growth #burnout
+**Type:** Lesson
+**Date:** Apr 23, 2025
+**Engagement:** 158 reactions, 18 comments, 2 reposts (Score: 974)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7308191081035141121
+
+Early-stage startup growth depends on the hours you put in.
+
+During YC, we worked intensely, often from 8 AM to 2 AM. The results were clear: rapid growth, improved retention, more demos, and increasing revenue.
+
+After YC, we slowed down for a week, working only a few hours a day. Growth immediately stalled, bugs piled up, and user experience suffered.
+
+Our current solution is maintaining a stable daily routine — consistent sleep, daily exercise, and fewer disruptions. This helps us stay productive without burning out.
+
+Before reaching strong product-led growth, full commitment to the product is crucial.
+
+---
+
+### #119 — It's hard to explain our product to our parents
+
+**Tags:** #parents #communication #ai #relatable
+**Type:** Story
+**Date:** Apr 23, 2025
+**Engagement:** 109 reactions, 38 comments, 4 reposts (Score: 933)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7295888070455762945
+
+Talked with my co-founders and found we all have the same pain point: It's hard to explain our product to our parents.
+
+My parents' only knowledge about AI is ChatGPT and DeepSeek. When I told them, "We help AI teams monitor and improve their AI outputs," my dad's immediate response was, "So you can see what I chat with ChatGPT?"
+
+AI still has a long way to go — not just in terms of technology, but in helping people see its potential and feel comfortable with it.
+
+---
+
+### #120 — My startup didn't feel real until mom stopped saying "gap year"
+
+**Tags:** #parents #dropout #validation #milestone
+**Type:** Story
+**Date:** Jul 27, 2025
+**Engagement:** 125 reactions, 12 comments, 2 reposts (Score: 749)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7343882608163905536
+
+My startup didn't feel real until my mom stopped telling relatives I was "on a gap year to figure things out."
+
+Even after I dropped out, got into YC, and shipped to real customers - she'd still call me and ask when I'm going back to school.
+
+It's been 2.5 years since I started building Respan with my best friends. She sees that I'm happy and no longer expects me to finish college. She finally got it.
+
+But now she's always calling to ask me to get health insurance…
+
+---
+
+### #121 — Founders, be ambitious but not too ambitious (snack photo)
+
+**Tags:** #ambition #balance #pacing #humor
+**Type:** Story + Lesson
+**Date:** Apr 23, 2025
+**Engagement:** 126 reactions, 9 comments, 3 reposts (Score: 726)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7306006290365915136
+
+Andy Li thought he could grab a few packs of snacks… and ended up testing the limits of gravity.
+
+Startups are about reaching big goals, pushing limits, and making things happen. But sometimes, we overestimate what we can carry — literally and figuratively.
+
+Lesson learned: Aim high, but don't forget to pace yourself. And maybe, just maybe, use a shopping cart.
+
+---
+
+### #122 — There's no schedule for startup founders
+
+**Tags:** #schedule #commitment #work-life #reality
+**Type:** Lesson
+**Date:** Apr 23, 2025
+**Engagement:** 63 reactions, 14 comments, 2 reposts (Score: 459)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7283254630531117056
+
+There's no schedule for startup founders.
+
+At the start of 2024, we set a work schedule, believing in work-life balance. We thought scheduled rest days would boost our efficiency and happiness.
+
+Reality quickly proved us wrong. You can't ignore customer requests because it's "after hours," nor can you take planned breaks when your roadmap is packed and bugs need fixing.
+
+Every day is a workday until you succeed. We now understand that every day demands our full commitment.
+
+---
+
+### #123 — I chose a startup over graduate school
+
+**Tags:** #dropout #grad-school #learning #growth
+**Type:** Story
+**Date:** Jun 27, 2025
+**Engagement:** 45 reactions, 7 comments, 3 reposts (Score: 301)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7341562410475864065
+
+I chose a startup over graduate school.
+
+When I got into grad school, I had to decide: take the safer path, or double down on the startup. I chose the second one.
+
+Unlike many traditional Asian families, my parents were surprisingly supportive.
+
+Startup life didn't feel like skipping school — it felt like enrolling in a different kind of grad program. One where I took 20 courses a week: Sales 101, SEO 205, Content Creation 499, and Engineering 501.
+
+---
+
+### #124 — Startup life is not a sprint — it's a race of stamina
+
+**Tags:** #stamina #motivation #consistency #lows
+**Type:** Essay
+**Date:** Jul 27, 2025
+**Engagement:** 46 reactions, 5 comments, 6 reposts (Score: 292)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7350590400660717569
+
+Startup life is not a sprint. It's a race of stamina.
+
+In the beginning, everything feels electric. Every new user felt like a win. Every tiny feature felt urgent.
+
+But over time, the initial excitement faded — not because we cared less, but because the dopamine hits stopped landing the same way.
+
+That's when I started to understand what startup life actually is. It's not a movie where one failure leads to a turning point. Most of the time, there's no dramatic twist. Just long stretches of building, fixing, waiting, and pushing forward.
+
+The hardest part isn't the work itself — it's staying consistent when the emotional highs and lows level out.
+
+Motivation can't come from the outside. It has to come from belief — belief in what you're building, in your team, and in the long game.
+
+We didn't get here from chasing highs. We got here by not giving up in the lows.
+
+---
+
+### #125 — If you have an idea, start now — don't just think about it
+
+**Tags:** #action #procrastination #shipping #urgency
+**Type:** Lesson
+**Date:** Apr 23, 2025
+**Engagement:** 58 reactions, 8 comments, 4 reposts (Score: 378)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7278557465670000641
+
+If you have an idea, start now. Don't just think about it.
+
+While learning design, I struggled to choose between 8-pixel or 4-pixel padding until I tested both in Figma. Theory only takes you so far.
+
+The same applies to building products. You can't predict if people want it until you ship it. Real feedback beats endless planning.
+
+Don't wait for the perfect moment — it never comes.
+
+---
+
+### #126 — Founders should pay themselves less than junior engineers
+
+**Tags:** #compensation #fairness #leadership #frugality
+**Type:** Hot Take
+**Date:** Oct 25, 2025
+**Engagement:** 78 reactions, 7 comments, 2 reposts (Score: 464)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7376689780404908033
+
+Founders should pay themselves less than junior engineers until Series A.
+
+Our interns and early engineers earn more than we do. That's by design.
+
+Why? Because they took a bet on us. They could've gone to big tech for stable pay. If they're taking that leap, they should be rewarded more than we are.
+
+Every dollar saved extends our life as a startup. Every extra month is another chance to find product-market fit.
+
+If you want to pay yourself more, first build something people love. Make the company grow, then share in the rewards. Until then, stay leaner than the people who bet on you.
+
+---
+
+### #127 — My personal savings went down 50% — company grew 500%
+
+**Tags:** #sacrifice #personal-finance #growth #trade-offs
+**Type:** Story
+**Date:** Nov 24, 2025
+**Engagement:** 57 reactions, 2 comments, 2 reposts (Score: 309)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7397024565626880000
+
+My personal savings went down 50%. Our company grew 500%.
+
+We keep our salaries as low as possible - just enough to cover rent and basic living expenses. Over time, my personal savings dropped by about half this year.
+
+While my savings went down, the company moved in the opposite direction. Respan grew more than 5x this year, added more customers than ever.
+
+These sacrifices aren't losses — they're bets on the future.
+
+---
+
+### #128 — Planned to sell startup for 8 figures in 1 year — reality hit
+
+**Tags:** #hubris #pivot #long-game #patience
+**Type:** Story + Lesson
+**Date:** Dec 24, 2025
+**Engagement:** 69 reactions, 8 comments, 2 reposts (Score: 424)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7404257927307431936
+
+We planned to sell Respan for 8 figures. Within one year.
+
+We were arrogant. We genuinely believed we could replace LinkedIn or Indeed simply because "we knew students."
+
+We treated it like a lottery ticket. Reality hit us hard. The tech was difficult. The market was saturated.
+
+That failure taught us the most important lesson we've learned so far: There are no shortcuts.
+
+We stopped chasing short-term metrics or hype. We committed to building the best LLM observability & evals platform on the market.
+
+We did things that didn't scale. We onboarded every single customer in person. We obsessed over the small details.
+
+We are finally playing the long game. And building something that actually lasts feels much better than chasing a quick exit.
+
+---
+
+### #129 — Met our first customer yesterday at hacker house
+
+**Tags:** #first-customer #pivot #conviction #early-days
+**Type:** Story
+**Date:** Dec 24, 2025
+**Engagement:** 66 reactions, 9 comments, 2 reposts (Score: 424)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7407537892912238593
+
+Met our first customer yesterday at our hacker house.
+
+When we first moved to San Francisco for YC, we were building an intelligent LLM router. That is how we met Wen Xu. He grabbed coffee, understood our vision, and subscribed on the spot. He became our first customer during our very first week in SF.
+
+We eventually pivoted toward LLM observability and evals, so we lost him as a user.
+
+But that early "yes" gave us something more important than revenue: it gave us conviction.
+
+---
+
+### #130 — Commuting is a competitive disadvantage — hacker house wins
+
+**Tags:** #remote #hacker-house #productivity #time
+**Type:** Lesson
+**Date:** Dec 24, 2025
+**Engagement:** 96 reactions, 10 comments, 2 reposts (Score: 584)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7404585642745192448
+
+I forgot how painful commuting actually is.
+
+For the first time in months, I drove into SF at 7 AM for a coffee chat. I sat in my car, frustrated, watching an hour disappear while stuck on the road.
+
+At our hacker house, my morning commute is usually 10 seconds. I roll out of bed, grab coffee, and I'm at my desk.
+
+That hour I wasted in traffic today is usually my most productive time.
+
+For an early-stage startup, losing an hour every day feels like a competitive disadvantage.
+
+We trade the commute for code.
+
+---
+
+### #131 — Most teams slow down in December — we speed up
+
+**Tags:** #momentum #holidays #shipping #discipline
+**Type:** Lesson
+**Date:** Dec 24, 2025
+**Engagement:** 39 reactions, 5 comments, 2 reposts (Score: 249)
+**URL:** https://www.linkedin.com/feed/update/urn:li:activity:7408933634700767233
+
+Most teams slow down in December. We speed up.
+
+At Respan, we treat December as the first month of 2026.
+
+Because momentum is everything. It takes months to build speed, but only days to lose it.
+
+If you stop completely for the holidays, you start January with a cold engine.
+
+By the time everyone else wakes up in January, we will already be one month ahead on our roadmap.
