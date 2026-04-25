@@ -39,6 +39,10 @@ The **LinkedIn Hook Writer** skill — a complete, searchable, cross-linked syst
 │   ├── niche-remix-protocol.md    #   Exact procedure for adapting hooks to a new niche
 │   └── quick-lookup.md            #   "I want X → go here" cheat sheet
 │
+├── inbox/                         # Drop zone for unprocessed source material
+│   ├── screenshots/               #   Drop new PNGs of LinkedIn hooks here
+│   └── _processed/                #   PNGs land here after ingest into EXAMPLES.md
+│
 └── scripts/
     └── build_db.py                # Parser: EXAMPLES.md → database/
 ```
